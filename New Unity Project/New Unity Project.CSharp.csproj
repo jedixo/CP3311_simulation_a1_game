@@ -69,9 +69,12 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Cha_Data\Script\ScreenShot.cs" />
+    <Compile Include="Assets\MainPlayerController.cs" />
     <Compile Include="Assets\Moveing platform.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Cha_Data\Shader\WrapLambert.shader" />
     <None Include="Assets\SimpleSky\ReadMe.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
