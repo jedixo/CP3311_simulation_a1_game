@@ -5,12 +5,14 @@ public class MainPlayerController : MonoBehaviour {
     public float rotateSpeed;
     public float fowardSpeed;
     public float jumpHieght;
-    private CharacterController playerController;
+    //private CharacterController playerController;
+   // public Animator anim;
 
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         playerController = GetComponent < CharacterController>();
+        anim = GetComponent<Animator>();
 	
 	}
 	
