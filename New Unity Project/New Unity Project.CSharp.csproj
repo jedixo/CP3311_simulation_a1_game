@@ -75,8 +75,11 @@
     <Compile Include="Assets\Spin.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Baker House\Readme.txt" />
     <None Include="Assets\Cha_Data\Shader\WrapLambert.shader" />
+    <None Include="Assets\Horse\SoftAlpha.shader" />
     <None Include="Assets\PowerUps Vol 1 Free\Readme.txt" />
+    <None Include="Assets\Readme.txt" />
     <None Include="Assets\SimpleSky\ReadMe.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
