@@ -48,7 +48,12 @@
      <Compile Include="Assets\Cha_Data\Script\ScreenShot.cs" />
      <Compile Include="Assets\Moveing platform.cs" />
      <Compile Include="Assets\Spin.cs" />
+     <Compile Include="Assets\desertAssets\scripts\addCoin.cs" />
+     <Compile Include="Assets\desertAssets\scripts\addGem.cs" />
+     <Compile Include="Assets\desertAssets\scripts\currencyRecorder.cs" />
+     <Compile Include="Assets\desertAssets\scripts\fallingPlatforms.cs" />
      <Compile Include="Assets\desertAssets\scripts\movePlatform.cs" />
+     <Compile Include="Assets\desertAssets\scripts\respawnPlayer.cs" />
      <Compile Include="Assets\desertAssets\scripts\rotate.cs" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\SimpleSky\ReadMe.txt" />

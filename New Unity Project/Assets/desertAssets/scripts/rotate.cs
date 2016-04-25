@@ -3,6 +3,8 @@ using System.Collections;
 
 public class rotate : MonoBehaviour {
 
+	public float delta = 2;
+
 	// Use this for initialization
 	void Start () {
 	
@@ -10,7 +12,7 @@ public class rotate : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		transform.Rotate (0, 2f, 0);
+		transform.Rotate (0, delta, 0);
 	
 	}
 }

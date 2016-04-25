@@ -1,9 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\desertAssets\scripts\rotate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\desertAssets\scripts\fallingPlatforms.cs">
     <Files>
-      <File FileName="Assets\desertAssets\scripts\movePlatform.cs" Line="55" Column="44" />
-      <File FileName="Assets\desertAssets\scripts\rotate.cs" Line="13" Column="25" />
+      <File FileName="Assets\desertAssets\scripts\respawnPlayer.cs" Line="6" Column="27" />
+      <File FileName="Assets\desertAssets\scripts\addGem.cs" Line="20" Column="10" />
+      <File FileName="Assets\desertAssets\scripts\movePlatform.cs" Line="21" Column="18" />
+      <File FileName="Assets\desertAssets\scripts\addCoin.cs" Line="23" Column="3" />
+      <File FileName="Assets\desertAssets\scripts\fallingPlatforms.cs" Line="25" Column="33" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
