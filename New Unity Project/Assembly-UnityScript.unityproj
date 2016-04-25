@@ -47,6 +47,7 @@
   <ItemGroup>
      <Compile Include="Assets\Cha_Data\Script\CharaView.js" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
+     <None Include="Assets\ProjectSettings\ProjectVersion.txt" />
      <None Include="Assets\SimpleSky\ReadMe.txt" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Cha_Data\Shader\WrapLambert.shader" />
