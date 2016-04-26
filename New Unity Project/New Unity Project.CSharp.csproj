@@ -70,9 +70,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Cha_Data\Script\ScreenShot.cs" />
-    <Compile Include="Assets\MainPlayerController.cs" />
     <Compile Include="Assets\Moveing platform.cs" />
     <Compile Include="Assets\Spin.cs" />
+    <Compile Include="Assets\desertAssets\scripts\MovingPlatformsx.cs" />
+    <Compile Include="Assets\desertAssets\scripts\MovingPlatformsz.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Baker House\Readme.txt" />
@@ -81,6 +82,9 @@
     <None Include="Assets\PowerUps Vol 1 Free\Readme.txt" />
     <None Include="Assets\Readme.txt" />
     <None Include="Assets\SimpleSky\ReadMe.txt" />
+    <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
   </ItemGroup>
