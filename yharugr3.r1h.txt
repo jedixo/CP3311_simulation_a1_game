@@ -1,0 +1,1075 @@
+﻿Merge remote-tracking branch 'origin/master'
+
+# Conflicts:
+#	New Unity Project/Assets/desertAssets/models/Materials.meta
+#	New Unity Project/Assets/desertAssets/models/Materials/White_Post.mat
+#	New Unity Project/Assets/desertAssets/models/Materials/White_Post.mat.meta
+#	New Unity Project/Assets/desertAssets/models/Materials/lambert1.mat
+#	New Unity Project/Assets/desertAssets/models/Materials/lambert1.mat.meta
+#	New Unity Project/Library/CurrentLayout.dwlt
+#	New Unity Project/Library/InspectorExpandedItems.asset
+#	New Unity Project/Library/LastSceneManagerSetup.txt
+#	New Unity Project/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll
+#	New Unity Project/Library/ScriptAssemblies/Assembly-CSharp-Editor.dll.mdb
+#	New Unity Project/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+#	New Unity Project/Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll.mdb
+#	New Unity Project/Library/ScriptAssemblies/Assembly-CSharp.dll
+#	New Unity Project/Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+#	New Unity Project/Library/ScriptAssemblies/Assembly-UnityScript.dll
+#	New Unity Project/Library/ScriptAssemblies/Assembly-UnityScript.dll.mdb
+#	New Unity Project/Library/ScriptMapper
+#	New Unity Project/Library/assetDatabase3
+#	New Unity Project/Library/expandedItems
+#	New Unity Project/Library/metadata/00/00000000000000004000000000000000
+#	New Unity Project/Library/metadata/00/00000000000000006100000000000000
+#	New Unity Project/Library/metadata/02/022f3b0ca3d9d234ba14c03f43985e35
+#	New Unity Project/Library/metadata/0d/0d2f50a8e0bb841a5aaa90ae55db8849
+#	New Unity Project/Library/metadata/0d/0d9d26e2162aa4d11ab075b34c029673
+#	New Unity Project/Library/metadata/10/1062212255550964e974f3ffb3cbaae3
+#	New Unity Project/Library/metadata/1c/1c52c953c83c2254a9fa72d50250f028
+#	New Unity Project/Library/metadata/1c/1cb8ed3cbba15f0479fbae54e0a963df
+#	New Unity Project/Library/metadata/2a/2a262f9245b58664d98234373468e137
+#	New Unity Project/Library/metadata/2a/2a262f9245b58664d98234373468e137.info
+#	New Unity Project/Library/metadata/32/32a4397f3b9152344b84d888d303a756
+#	New Unity Project/Library/metadata/4e/4e738c7d2a9e86b4780f46f9821eeb76
+#	New Unity Project/Library/metadata/4e/4e738c7d2a9e86b4780f46f9821eeb76.info
+#	New Unity Project/Library/metadata/51/51dd2e4c869794f75a0df7d54b210214
+#	New Unity Project/Library/metadata/54/54eb5844754051b40a918a84c33b7c1a.info
+#	New Unity Project/Library/metadata/6f/6fb3851da6a6f5948ab6892bee8ba920
+#	New Unity Project/Library/metadata/75/753ea9ccf9eee6c42a0954ec8663b992.info
+#	New Unity Project/Library/metadata/77/7737647c22c1fc64a88d5cd030c352ce.info
+#	New Unity Project/Library/metadata/87/8789513c8ad6b464ba1dbfef50c4db59
+#	New Unity Project/Library/metadata/87/8789513c8ad6b464ba1dbfef50c4db59.info
+#	New Unity Project/Library/metadata/94/941474c64cb919a46b9459f5ee47cb8a
+#	New Unity Project/Library/metadata/94/941474c64cb919a46b9459f5ee47cb8a.info
+#	New Unity Project/Library/metadata/b1/b1a5e04ae51004842aba06704a6c2903
+#	New Unity Project/Library/metadata/b2/b235179bd2a63d1468dd430670338c55
+#	New Unity Project/Library/metadata/bb/bb141fc9a700c9c4ca7e6dadb8acf24b
+#	New Unity Project/Library/metadata/d0/d05d496cb4f43c14e80630addd23652e
+#	New Unity Project/Library/metadata/d8/d89ea37480b6d75458aa38843e9688dc
+#	New Unity Project/Library/metadata/df/dffa50cfe77e0434bbfa71245b3dd529
+#	New Unity Project/Library/metadata/f0/f03e10c73f30b4ab4aa8ea8f1cc16d36
+#	New Unity Project/Library/metadata/f2/f2bed5dc5afacff44a00de8daae9703b
+#	New Unity Project/Library/metadata/fc/fcd71ac7d8ae5c640919d492852f1382
+#	New Unity Project/Library/metadata/fc/fcd71ac7d8ae5c640919d492852f1382.info
+#	New Unity Project/Library/shadercompiler-UnityShaderCompiler.exe0.log
+#	New Unity Project/New Unity Project.sln
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 3 and 3 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   New Unity Project/Assembly-CSharp-Editor.csproj
+#	modified:   New Unity Project/Assembly-CSharp-firstpass.csproj
+#	modified:   New Unity Project/Assembly-CSharp.csproj
+#	new file:   New Unity Project/Assembly-UnityScript.unityproj
+#	new file:   New Unity Project/Assets/New Terrain 1.asset
+#	new file:   New Unity Project/Assets/New Terrain 1.asset.meta
+#	new file:   New Unity Project/Assets/New Terrain 2.asset
+#	new file:   New Unity Project/Assets/New Terrain 2.asset.meta
+#	modified:   New Unity Project/Assets/PowerUps Vol 1 Free/Materials/Diamond Green.mat
+#	new file:   New Unity Project/Assets/ProjectSettings.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/AudioManager.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/AudioManager.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/ClusterInputManager.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/ClusterInputManager.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/DynamicsManager.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/DynamicsManager.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/EditorBuildSettings.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/EditorBuildSettings.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/EditorSettings.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/EditorSettings.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/GraphicsSettings.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/GraphicsSettings.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/InputManager.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/InputManager.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/NavMeshAreas.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/NavMeshAreas.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/NetworkManager.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/NetworkManager.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/Physics2DSettings.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/Physics2DSettings.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/ProjectSettings.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/ProjectSettings.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/ProjectVersion.txt
+#	new file:   New Unity Project/Assets/ProjectSettings/ProjectVersion.txt.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/QualitySettings.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/QualitySettings.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/TagManager.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/TagManager.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/TimeManager.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/TimeManager.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/UnityAdsSettings.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/UnityAdsSettings.asset.meta
+#	new file:   New Unity Project/Assets/ProjectSettings/UnityConnectSettings.asset
+#	new file:   New Unity Project/Assets/ProjectSettings/UnityConnectSettings.asset.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/BroadleafBark_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/Billboard.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/Billboard.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_1.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Branches_1.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/FacingLeaves_4.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/FacingLeaves_4.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Fronds_2.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Fronds_2.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Leaves_3.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD0/Leaves_3.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_1.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Branches_1.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/FacingLeaves_4.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/FacingLeaves_4.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Fronds_2.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Fronds_2.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Leaves_3.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD1/Leaves_3.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_1.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Branches_1.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/FacingLeaves_4.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/FacingLeaves_4.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Fronds_2.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Fronds_2.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Leaves_3.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop Materials/LOD2/Leaves_3.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop.spm.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Billboards_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Specular.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Desktop_Atlas_Specular.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/Billboard.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/Billboard.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Leaves_1.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD0/Leaves_1.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Leaves_1.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD1/Leaves_1.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Leaves_1.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile Materials/LOD2/Leaves_1.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile.spm.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Billboards_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Specular.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaf_Mobile_Atlas_Specular.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Spec.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Card_Desktop_Spec.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Spec.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Desktop_Spec.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Spec.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Broadleaves_Mobile_Spec.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_01_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/Cap_02_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Broadleaf/ClippedFrond_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/ConiferBark_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/Billboard.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_1.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Branches_1.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Fronds_2.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Fronds_2.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Leaves_3.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD0/Leaves_3.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_1.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Branches_1.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Fronds_2.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Fronds_2.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Leaves_3.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD1/Leaves_3.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_1.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Branches_1.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Leaves_3.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop Materials/LOD2/Leaves_3.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop.spm.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Billboards_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Specular.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Desktop_Atlas_Specular.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Dekstop_Spec.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Dekstop_Spec.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Conifer_Needles_Desktop_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Thumb_Conifer_Desktop.jpg
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Conifer/Thumb_Conifer_Desktop.jpg.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Detail_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmBark_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Spec.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/PalmFrond_Spec.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/Billboard.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/Billboard.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_1.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Branches_1.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Fronds_2.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Fronds_2.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Leaves_3.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD0/Leaves_3.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Fronds_2.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Fronds_2.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Leaves_3.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD1/Leaves_3.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Branches_0.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Branches_0.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Fronds_2.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop Materials/LOD2/Fronds_2.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop.spm
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop.spm.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Billboards_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Normal.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Normal.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Specular.tga
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Palm_Desktop_Atlas_Specular.tga.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Thumb_Palm_Desktop.jpg
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/SpeedTree/Palm/Thumb_Palm_Desktop.jpg.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond01AlbedoAlpha.psd
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond01AlbedoAlpha.psd.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond02AlbedoAlpha.psd
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/BillboardTextures/GrassFrond02AlbedoAlpha.psd.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/CliffAlbedoSpecular.psd
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/CliffAlbedoSpecular.psd.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassHillAlbedo.psd
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassHillAlbedo.psd.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassRockyAlbedo.psd
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/GrassRockyAlbedo.psd.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyAlbedoSpecular.bmp.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyNormals.bmp
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/MudRockyNormals.bmp.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/TerrainAssets/SurfaceTextures/SandAlbedo.psd.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic).meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Materials.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicDaytime.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicDaytime.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicNighttime.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterBasicNighttime.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Materials/WaterDefault.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Models.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Models/WaterBasicPlane.fbx
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Models/WaterBasicPlane.fbx.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Prefabs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicDaytime.prefab
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicDaytime.prefab.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicNightime.prefab
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Prefabs/WaterBasicNightime.prefab.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Scripts.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Scripts/WaterBasic.cs
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Scripts/WaterBasic.cs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Shaders.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Shaders/FXWaterBasic.shader
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Shaders/FXWaterBasic.shader.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Textures.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicDaytimeGradient.psd
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicDaytimeGradient.psd.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNighttimeGradient.psd
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNighttimeGradient.psd.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNormals.jpg
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water (Basic)/Textures/WaterBasicNormals.jpg.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Materials.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Materials/WaterPlaneMaterial.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProDaytime.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProNighttime.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Materials/WaterProNighttime.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Models.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Models/WaterPlane.fbx
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Models/WaterPlane.fbx.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Prefabs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProDaytime.prefab
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProDaytime.prefab.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProNighttime.prefab
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Prefabs/WaterProNighttime.prefab.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/Displace.cs
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/Displace.cs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/GerstnerDisplace.cs
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/GerstnerDisplace.cs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/MeshContainer.cs
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/MeshContainer.cs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/PlanarReflection.cs
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/PlanarReflection.cs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/SpecularLighting.cs
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/SpecularLighting.cs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/Water.cs
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/Water.cs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterBase.cs
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterBase.cs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterTile.cs
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Scripts/WaterTile.cs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Shaders.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Shaders/FXWaterPro.shader
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Shaders/FXWaterPro.shader.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Textures.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Textures/WaterBump.jpg
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Textures/WaterBump.jpg.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Textures/WaterFresnel.psd
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Textures/WaterFresnel.psd.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProDaytimeGradient.psd
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProDaytimeGradient.psd.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProNighttimeGradient.psd
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water/Textures/WaterProNighttimeGradient.psd.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Materials.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Materials/OceanPlaneMaterial.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Materials/OceanPlaneMaterial.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Advanced.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Simple.mat
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Materials/Water4Simple.mat.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Models.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Models/OceanPlane.FBX
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Models/OceanPlane.FBX.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Prefabs.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Advanced.prefab
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Advanced.prefab.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Simple.prefab
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Prefabs/Water4Simple.prefab.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Shaders.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Advanced.shader
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Advanced.shader.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Simple.shader
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Shaders/FXWater4Simple.shader.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Shaders/WaterInclude.cginc
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Shaders/WaterInclude.cginc.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Textures.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Textures/SimpleFoam.png
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Textures/SimpleFoam.png.meta
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Textures/SmallWaves.png
+#	new file:   New Unity Project/Assets/Standard Assets/Environment/Water/Water4/Textures/SmallWaves.png.meta
+#	modified:   New Unity Project/Assets/desert.unity
+#	new file:   New Unity Project/Assets/desertAssets/materials/building.mat
+#	new file:   New Unity Project/Assets/desertAssets/materials/building.mat.meta
+#	new file:   New Unity Project/Assets/desertAssets/materials/phong2.mat
+#	new file:   New Unity Project/Assets/desertAssets/materials/phong2.mat.meta
+#	new file:   New Unity Project/Assets/desertAssets/materials/testing.mat
+#	new file:   New Unity Project/Assets/desertAssets/materials/testing.mat.meta
+#	modified:   New Unity Project/Assets/desertAssets/models/Materials.meta
+#	modified:   New Unity Project/Assets/desertAssets/models/Materials/White_Post.mat.meta
+#	modified:   New Unity Project/Assets/desertAssets/models/Materials/lambert1.mat.meta
+#	new file:   New Unity Project/Assets/desertAssets/models/gem.fbx
+#	new file:   New Unity Project/Assets/desertAssets/models/gem.fbx.meta
+#	new file:   New Unity Project/Assets/desertAssets/pref/coin.prefab
+#	new file:   New Unity Project/Assets/desertAssets/pref/coin.prefab.meta
+#	new file:   New Unity Project/Assets/desertAssets/pref/fallingPlatform.prefab
+#	new file:   New Unity Project/Assets/desertAssets/pref/fallingPlatform.prefab.meta
+#	new file:   New Unity Project/Assets/desertAssets/pref/gem.prefab
+#	new file:   New Unity Project/Assets/desertAssets/pref/gem.prefab.meta
+#	new file:   New Unity Project/Assets/desertAssets/pref/gem2.prefab
+#	new file:   New Unity Project/Assets/desertAssets/pref/gem2.prefab.meta
+#	deleted:    New Unity Project/Assets/desertAssets/scripts/MovingPlatformsx.cs
+#	deleted:    New Unity Project/Assets/desertAssets/scripts/MovingPlatformsz.cs
+#	new file:   New Unity Project/Assets/desertAssets/scripts/addCoin.cs
+#	renamed:    New Unity Project/Assets/desertAssets/scripts/MovingPlatformsz.cs.meta -> New Unity Project/Assets/desertAssets/scripts/addCoin.cs.meta
+#	new file:   New Unity Project/Assets/desertAssets/scripts/addGem.cs
+#	renamed:    New Unity Project/Assets/desertAssets/scripts/MovingPlatformsx.cs.meta -> New Unity Project/Assets/desertAssets/scripts/addGem.cs.meta
+#	new file:   New Unity Project/Assets/desertAssets/scripts/currencyRecorder.cs
+#	new file:   New Unity Project/Assets/desertAssets/scripts/currencyRecorder.cs.meta
+#	new file:   New Unity Project/Assets/desertAssets/scripts/fallingPlatforms.cs
+#	new file:   New Unity Project/Assets/desertAssets/scripts/fallingPlatforms.cs.meta
+#	new file:   New Unity Project/Assets/desertAssets/scripts/movePlatform.cs
+#	new file:   New Unity Project/Assets/desertAssets/scripts/movePlatform.cs.meta
+#	new file:   New Unity Project/Assets/desertAssets/scripts/respawnPlayer.cs
+#	new file:   New Unity Project/Assets/desertAssets/scripts/respawnPlayer.cs.meta
+#	new file:   New Unity Project/Assets/desertAssets/scripts/rotate.cs
+#	new file:   New Unity Project/Assets/desertAssets/scripts/rotate.cs.meta
+#	new file:   New Unity Project/Assets/lava.unity
+#	new file:   New Unity Project/Assets/lava.unity.meta
+#	modified:   New Unity Project/Library/LastSceneManagerSetup.txt
+#	new file:   New Unity Project/Library/ShaderCache/0/016a69e734a519a5150463094b25a170.bin
+#	new file:   New Unity Project/Library/ShaderCache/0/047b41e17a24ce034f5b51b6b25aa91e.bin
+#	new file:   New Unity Project/Library/ShaderCache/0/06c97a43615e390208620b4362eb2643.bin
+#	new file:   New Unity Project/Library/ShaderCache/0/0a7e9f107ed7ff237e08345db83ea6ee.bin
+#	new file:   New Unity Project/Library/ShaderCache/0/0c6bf29df786872595ab1deaf38672ef.bin
+#	new file:   New Unity Project/Library/ShaderCache/1/13e39a922635cd8efb69c76409f4ff64.bin
+#	new file:   New Unity Project/Library/ShaderCache/1/13fe347d6872083ca43e845174bb86ad.bin
+#	new file:   New Unity Project/Library/ShaderCache/1/15a20e820b6ffe8f14fe70fb83a8bb62.bin
+#	new file:   New Unity Project/Library/ShaderCache/1/177c2cb21c32c7f0b45c50a37cdc6b5b.bin
+#	new file:   New Unity Project/Library/ShaderCache/1/199e7852cd52e441dcce01c125f9b4ed.bin
+#	new file:   New Unity Project/Library/ShaderCache/1/19b0cbb4bdafdbe46651083c6fb3a71c.bin
+#	new file:   New Unity Project/Library/ShaderCache/2/2266e2103b83f6c6ff0d3e285d7d7c94.bin
+#	new file:   New Unity Project/Library/ShaderCache/2/256a824226f9f4840fd86323eaf12146.bin
+#	new file:   New Unity Project/Library/ShaderCache/2/2f9e1b43e7a6416902856d38fbeca318.bin
+#	new file:   New Unity Project/Library/ShaderCache/3/31053b6b9d59a98078ac80de5d8b20da.bin
+#	new file:   New Unity Project/Library/ShaderCache/3/32c25970b0ca9786b368c162a901450a.bin
+#	new file:   New Unity Project/Library/ShaderCache/3/341b0017f6423512be7d02d4c0c56ef4.bin
+#	new file:   New Unity Project/Library/ShaderCache/3/37d139d6b9cbbdde83e5f4b585ab5fa6.bin
+#	new file:   New Unity Project/Library/ShaderCache/3/3b3434c0a1ad5ef92fb99d12a1a99473.bin
+#	new file:   New Unity Project/Library/ShaderCache/3/3ddade448bb4a4002929a9a21d991e58.bin
+#	new file:   New Unity Project/Library/ShaderCache/4/4341319b92c72a92ff2fff66bde38b0f.bin
+#	new file:   New Unity Project/Library/ShaderCache/4/439d37418c0a83eae57f9f1315ac54ff.bin
+#	new file:   New Unity Project/Library/ShaderCache/4/4a0495d2fd7bdf02a64983aef7a99b3e.bin
+#	new file:   New Unity Project/Library/ShaderCache/4/4a54f9d3aac13d6d7a6e6849c9b66510.bin
+#	new file:   New Unity Project/Library/ShaderCache/4/4de9e5efeb3f87d5dfe3c0589acd03ac.bin
+#	new file:   New Unity Project/Library/ShaderCache/4/4e9b4838835f7639d2ab8df20dfbeda6.bin
+#	new file:   New Unity Project/Library/ShaderCache/5/5419993879926f79430f971c96fda2f0.bin
+#	new file:   New Unity Project/Library/ShaderCache/5/5755b2473291cee2e6d4ce2cb3bd689f.bin
+#	new file:   New Unity Project/Library/ShaderCache/5/5e4e4a136719aa4c8d680d7cdfab5747.bin
+#	new file:   New Unity Project/Library/ShaderCache/6/64a6a694b418beed6c25133287507883.bin
+#	new file:   New Unity Project/Library/ShaderCache/6/6c622ffc8ecf9670fd83a2f93062951e.bin
+#	new file:   New Unity Project/Library/ShaderCache/7/7063c5535040db7e6c2b4cfea706970d.bin
+#	new file:   New Unity Project/Library/ShaderCache/7/789f51cc391eb6923a9daa6e780cf785.bin
+#	new file:   New Unity Project/Library/ShaderCache/7/7944cfcb03ee15767d3a047b6eda3e90.bin
+#	new file:   New Unity Project/Library/ShaderCache/7/7a76cd2f2aee6158425507d199eb6ad9.bin
+#	new file:   New Unity Project/Library/ShaderCache/7/7b99b7b1cb23087b9153c9c59b375ef0.bin
+#	new file:   New Unity Project/Library/ShaderCache/7/7d2cc3d2b16ce86f47aa86686cdcd63d.bin
+#	new file:   New Unity Project/Library/ShaderCache/7/7e021179dae8804cdfedcd32ddca4150.bin
+#	new file:   New Unity Project/Library/ShaderCache/7/7e6433e4604508247bac7cc036d2c8c2.bin
+#	new file:   New Unity Project/Library/ShaderCache/7/7f5bac0d497599798dc544168f74d7a0.bin
+#	new file:   New Unity Project/Library/ShaderCache/8/8f1688b20607ad7044aa0cf5b7833c5a.bin
+#	new file:   New Unity Project/Library/ShaderCache/9/91082c6754440ac8dc4edad456e258f0.bin
+#	new file:   New Unity Project/Library/ShaderCache/9/91990e15757edd75dcddcdc79bb4e53f.bin
+#	new file:   New Unity Project/Library/ShaderCache/9/962404d8214573607935921ba10fabb6.bin
+#	new file:   New Unity Project/Library/ShaderCache/9/974940dc3a4334ee120f9ff542937f66.bin
+#	new file:   New Unity Project/Library/ShaderCache/9/98262d7f58faa09f86942b85211c6fae.bin
+#	new file:   New Unity Project/Library/ShaderCache/9/9c2f79d36b31fe691c556d433fd242ce.bin
+#	new file:   New Unity Project/Library/ShaderCache/9/9e39d90807351b41a24d55f788a37f38.bin
+#	new file:   New Unity Project/Library/ShaderCache/9/9f2e1549ec97d9aafc8cda9d9566b13f.bin
+#	new file:   New Unity Project/Library/ShaderCache/a/a25ea14b7c41052cb693609cf9b8e74c.bin
+#	new file:   New Unity Project/Library/ShaderCache/a/a2ee5c8d655f756579914c66c7941f3a.bin
+#	new file:   New Unity Project/Library/ShaderCache/a/a704dc2fa9484ef58a2a2903c3924e92.bin
+#	new file:   New Unity Project/Library/ShaderCache/a/ac3d385328e43ac0b100c2c515ce7a79.bin
+#	new file:   New Unity Project/Library/ShaderCache/a/acc8b5872b8181b431cff27ea258bbdb.bin
+#	new file:   New Unity Project/Library/ShaderCache/a/ae267235aee2a71f191993bec036125c.bin
+#	new file:   New Unity Project/Library/ShaderCache/b/b7075b8fcc49ea1d41e970f778e67db2.bin
+#	new file:   New Unity Project/Library/ShaderCache/b/b8f13bda5dcf56b95a6cb123e8daf08a.bin
+#	new file:   New Unity Project/Library/ShaderCache/c/c39eb6ca93d5681ef8b03f95ef9282f3.bin
+#	new file:   New Unity Project/Library/ShaderCache/c/c65805f564a2ba493400e4b690ed4363.bin
+#	new file:   New Unity Project/Library/ShaderCache/c/cb265071b970ec6c0f212b5fbc2f8819.bin
+#	new file:   New Unity Project/Library/ShaderCache/c/cc62b54a046669389170ac9685021b75.bin
+#	new file:   New Unity Project/Library/ShaderCache/d/d28138114874a014fba01bbd7646e0c7.bin
+#	new file:   New Unity Project/Library/ShaderCache/d/d3cb19cdf6eca0b0df1a9c404791a094.bin
+#	new file:   New Unity Project/Library/ShaderCache/d/d494c9990b3eb4930230e783fc19687a.bin
+#	new file:   New Unity Project/Library/ShaderCache/d/d6812338a619f34066b8cbb04025677c.bin
+#	new file:   New Unity Project/Library/ShaderCache/d/d7b8051b00882e5c15b7c4ab9f97a693.bin
+#	new file:   New Unity Project/Library/ShaderCache/d/d81eaaac956aedc64dba986e55cd8780.bin
+#	new file:   New Unity Project/Library/ShaderCache/d/dbae9a9fee836eeab56a2eda66dbb614.bin
+#	new file:   New Unity Project/Library/ShaderCache/e/e01434d50d277557b5d0eb1a0170c54e.bin
+#	new file:   New Unity Project/Library/ShaderCache/e/e34877efc34d9455036e61d01035ccd5.bin
+#	new file:   New Unity Project/Library/ShaderCache/e/e72719ae85a346962e0a6cd8eb2d96b9.bin
+#	new file:   New Unity Project/Library/ShaderCache/e/e9a4067a2884d352bfb9f185b512f803.bin
+#	new file:   New Unity Project/Library/ShaderCache/e/ec4675d0d6a83caa44f32a43005fb1ca.bin
+#	new file:   New Unity Project/Library/ShaderCache/e/ecde3e79dde83c94eb3b3bd9f19df1b8.bin
+#	new file:   New Unity Project/Library/ShaderCache/f/f03cbb0b1c242d1cbd535086626cb325.bin
+#	new file:   New Unity Project/Library/ShaderCache/f/f2028c1dc57a3df86c20965fb61e4c98.bin
+#	new file:   New Unity Project/Library/ShaderCache/f/f3d72e0b8aaf671df70c317e7e0346df.bin
+#	new file:   New Unity Project/Library/ShaderCache/f/f524bd3a6f2e24de0a8f2b74ccff37dc.bin
+#	new file:   New Unity Project/Library/ShaderCache/f/f5acfb6292fbeea790db56b30132ea2f.bin
+#	new file:   New Unity Project/Library/ShaderCache/f/f5f1f051e5a684a4b50531f47318085f.bin
+#	new file:   New Unity Project/Library/ShaderCache/f/fe353a8acb58b96f0ba89b7b0dcdaa63.bin
+#	new file:   New Unity Project/Library/ShaderCache/f/fe6d0b93a434d4421a4e0a864f3745d4.bin
+#	modified:   New Unity Project/Library/metadata/00/00000000000000002000000000000000
+#	modified:   New Unity Project/Library/metadata/00/00000000000000003000000000000000
+#	modified:   New Unity Project/Library/metadata/00/00000000000000004100000000000000
+#	modified:   New Unity Project/Library/metadata/00/00000000000000005000000000000000
+#	modified:   New Unity Project/Library/metadata/00/00000000000000005100000000000000
+#	modified:   New Unity Project/Library/metadata/00/00000000000000006000000000000000
+#	modified:   New Unity Project/Library/metadata/00/00000000000000007000000000000000
+#	modified:   New Unity Project/Library/metadata/00/00000000000000007100000000000000
+#	modified:   New Unity Project/Library/metadata/00/00000000000000008000000000000000
+#	modified:   New Unity Project/Library/metadata/00/00000000000000008100000000000000
+#	modified:   New Unity Project/Library/metadata/00/00000000000000009000000000000000
+#	modified:   New Unity Project/Library/metadata/00/0000000000000000a000000000000000
+#	modified:   New Unity Project/Library/metadata/00/0000000000000000a100000000000000
+#	modified:   New Unity Project/Library/metadata/00/0000000000000000b000000000000000
+#	modified:   New Unity Project/Library/metadata/00/0000000000000000c000000000000000
+#	new file:   New Unity Project/Library/metadata/01/01f62a3461d89974994f100db78302af
+#	renamed:    New Unity Project/Library/metadata/76/76e335a5b35e5864e9e900274090b1c7.info -> New Unity Project/Library/metadata/01/01f62a3461d89974994f100db78302af.info
+#	new file:   New Unity Project/Library/metadata/03/03a71764f1184704c9a74acb7490450e
+#	new file:   New Unity Project/Library/metadata/03/03a71764f1184704c9a74acb7490450e.info
+#	new file:   New Unity Project/Library/metadata/04/047330f39d11745ad0004adb8d76c639
+#	new file:   New Unity Project/Library/metadata/04/047330f39d11745ad0004adb8d76c639.info
+#	new file:   New Unity Project/Library/metadata/08/08730081bfbd5d641978c0b9843f9426
+#	renamed:    New Unity Project/Library/metadata/c4/c4a5211bc4fbd4141b966742caf813fc.info -> New Unity Project/Library/metadata/08/08730081bfbd5d641978c0b9843f9426.info
+#	new file:   New Unity Project/Library/metadata/0a/0aa00c0212e047047aa5a1ce93b07f49
+#	new file:   New Unity Project/Library/metadata/0a/0aa00c0212e047047aa5a1ce93b07f49.info
+#	new file:   New Unity Project/Library/metadata/0c/0ceeb1ba689fb2c44a312e498698d720
+#	new file:   New Unity Project/Library/metadata/0c/0ceeb1ba689fb2c44a312e498698d720.info
+#	renamed:    New Unity Project/Library/metadata/76/76e335a5b35e5864e9e900274090b1c7 -> New Unity Project/Library/metadata/0d/0d2f50a8e0bb841a5aaa90ae55db8849
+#	new file:   New Unity Project/Library/metadata/0d/0d2f50a8e0bb841a5aaa90ae55db8849.info
+#	new file:   New Unity Project/Library/metadata/0e/0ec79c3d1dd0fb640b7f3f72ebb28f74
+#	new file:   New Unity Project/Library/metadata/0e/0ec79c3d1dd0fb640b7f3f72ebb28f74.info
+#	new file:   New Unity Project/Library/metadata/0f/0fba4f26ed91ff546acd8c27d9a2f0db
+#	new file:   New Unity Project/Library/metadata/0f/0fba4f26ed91ff546acd8c27d9a2f0db.info
+#	new file:   New Unity Project/Library/metadata/10/1092dd21af768cb499771bf88709dbbd
+#	new file:   New Unity Project/Library/metadata/10/1092dd21af768cb499771bf88709dbbd.info
+#	new file:   New Unity Project/Library/metadata/14/144b600476a4c7d40a59eb207a9f4bc2
+#	new file:   New Unity Project/Library/metadata/14/144b600476a4c7d40a59eb207a9f4bc2.info
+#	new file:   New Unity Project/Library/metadata/17/172f40c874b35fc42a66d568a70f9867
+#	new file:   New Unity Project/Library/metadata/17/172f40c874b35fc42a66d568a70f9867.info
+#	new file:   New Unity Project/Library/metadata/17/17e234879cb994b7f93d7437c10d23d6
+#	new file:   New Unity Project/Library/metadata/17/17e234879cb994b7f93d7437c10d23d6.info
+#	new file:   New Unity Project/Library/metadata/18/18214e9d6af6248559d501391856f1c7
+#	new file:   New Unity Project/Library/metadata/18/18214e9d6af6248559d501391856f1c7.info
+#	new file:   New Unity Project/Library/metadata/19/19d7ece9e3def3745a0f6e75d984fdf6
+#	new file:   New Unity Project/Library/metadata/19/19d7ece9e3def3745a0f6e75d984fdf6.info
+#	new file:   New Unity Project/Library/metadata/1c/1cac2e0bcc34e4b3cbb4bd85982eba83
+#	new file:   New Unity Project/Library/metadata/1c/1cac2e0bcc34e4b3cbb4bd85982eba83.info
+#	new file:   New Unity Project/Library/metadata/1c/1cb3f0c5c8637644dae1816a674f7e10
+#	new file:   New Unity Project/Library/metadata/1c/1cb3f0c5c8637644dae1816a674f7e10.info
+#	new file:   New Unity Project/Library/metadata/1f/1fbc4e410d66d804aaf31b4c25b16ffc
+#	new file:   New Unity Project/Library/metadata/1f/1fbc4e410d66d804aaf31b4c25b16ffc.info
+#	new file:   New Unity Project/Library/metadata/20/20c65bc5a7d28f54c9ca69569d77706d
+#	new file:   New Unity Project/Library/metadata/20/20c65bc5a7d28f54c9ca69569d77706d.info
+#	new file:   New Unity Project/Library/metadata/21/2184d5d25ff500a418e1953817dfdd9e
+#	new file:   New Unity Project/Library/metadata/21/2184d5d25ff500a418e1953817dfdd9e.info
+#	new file:   New Unity Project/Library/metadata/21/21b01056ea59b814f9ae15d8e6bb3aac
+#	new file:   New Unity Project/Library/metadata/21/21b01056ea59b814f9ae15d8e6bb3aac.info
+#	modified:   New Unity Project/Library/metadata/29/294400a0ca294384084dfba56bdf4c9a.info
+#	new file:   New Unity Project/Library/metadata/2a/2a91e8dd37cdd41efb4859b65aced7a2
+#	new file:   New Unity Project/Library/metadata/2a/2a91e8dd37cdd41efb4859b65aced7a2.info
+#	new file:   New Unity Project/Library/metadata/2b/2b46b029d8dc37049aebb484e79998ff
+#	new file:   New Unity Project/Library/metadata/2b/2b46b029d8dc37049aebb484e79998ff.info
+#	new file:   New Unity Project/Library/metadata/2b/2bcb00d145ec17e4cad096cedfd84138
+#	new file:   New Unity Project/Library/metadata/2b/2bcb00d145ec17e4cad096cedfd84138.info
+#	new file:   New Unity Project/Library/metadata/2c/2c0b1e62b5409f6468554bb2f297badc
+#	new file:   New Unity Project/Library/metadata/2c/2c0b1e62b5409f6468554bb2f297badc.info
+#	new file:   New Unity Project/Library/metadata/2c/2c116325e19b8a04d916864cc540ec2d
+#	new file:   New Unity Project/Library/metadata/2c/2c116325e19b8a04d916864cc540ec2d.info
+#	new file:   New Unity Project/Library/metadata/2c/2c1c27ec8c3b75a4c80a795adc9ca788
+#	new file:   New Unity Project/Library/metadata/2c/2c1c27ec8c3b75a4c80a795adc9ca788.info
+#	new file:   New Unity Project/Library/metadata/2c/2c528fec5d95e4ac28cf46399b887662
+#	new file:   New Unity Project/Library/metadata/2c/2c528fec5d95e4ac28cf46399b887662.info
+#	new file:   New Unity Project/Library/metadata/2c/2c538784885b34a5987ed9f6651d9ecd
+#	new file:   New Unity Project/Library/metadata/2c/2c538784885b34a5987ed9f6651d9ecd.info
+#	new file:   New Unity Project/Library/metadata/2d/2dc67c8fe799ae845add403087340bd1
+#	new file:   New Unity Project/Library/metadata/2d/2dc67c8fe799ae845add403087340bd1.info
+#	new file:   New Unity Project/Library/metadata/2d/2dd3788f8589b40bf82a92d76ffc5091
+#	new file:   New Unity Project/Library/metadata/2d/2dd3788f8589b40bf82a92d76ffc5091.info
+#	new file:   New Unity Project/Library/metadata/2e/2e806ee129f2ed642894365a36e89c5f
+#	new file:   New Unity Project/Library/metadata/2e/2e806ee129f2ed642894365a36e89c5f.info
+#	new file:   New Unity Project/Library/metadata/30/30586af2d47849140b2d533bb6f75eaa
+#	new file:   New Unity Project/Library/metadata/30/30586af2d47849140b2d533bb6f75eaa.info
+#	new file:   New Unity Project/Library/metadata/30/306f8f570579fb3448d141a63029ef94
+#	new file:   New Unity Project/Library/metadata/30/306f8f570579fb3448d141a63029ef94.info
+#	new file:   New Unity Project/Library/metadata/30/30abebfd9bf1c49d8a2d26e61e66bc15
+#	new file:   New Unity Project/Library/metadata/30/30abebfd9bf1c49d8a2d26e61e66bc15.info
+#	renamed:    New Unity Project/Library/metadata/c4/c4a5211bc4fbd4141b966742caf813fc -> New Unity Project/Library/metadata/32/32a4397f3b9152344b84d888d303a756
+#	new file:   New Unity Project/Library/metadata/32/32a4397f3b9152344b84d888d303a756.info
+#	new file:   New Unity Project/Library/metadata/33/33850b67ffcaa4b6c9a7146e4be0b917
+#	new file:   New Unity Project/Library/metadata/33/33850b67ffcaa4b6c9a7146e4be0b917.info
+#	new file:   New Unity Project/Library/metadata/34/34d2758af9e0a2b4690fbcfcad0285d6
+#	new file:   New Unity Project/Library/metadata/34/34d2758af9e0a2b4690fbcfcad0285d6.info
+#	new file:   New Unity Project/Library/metadata/34/34e1452e07a0b40c295c5b10aa679465
+#	new file:   New Unity Project/Library/metadata/34/34e1452e07a0b40c295c5b10aa679465.info
+#	new file:   New Unity Project/Library/metadata/34/34f07406286974e4ca236867d8d58b51
+#	new file:   New Unity Project/Library/metadata/34/34f07406286974e4ca236867d8d58b51.info
+#	new file:   New Unity Project/Library/metadata/35/355b3169750599e4f957a9d54675c3fa
+#	new file:   New Unity Project/Library/metadata/35/355b3169750599e4f957a9d54675c3fa.info
+#	new file:   New Unity Project/Library/metadata/36/36dd0b22da8874ed38075789055ca664
+#	new file:   New Unity Project/Library/metadata/36/36dd0b22da8874ed38075789055ca664.info
+#	new file:   New Unity Project/Library/metadata/37/370a07ba01954124f8aa49303888daa7
+#	new file:   New Unity Project/Library/metadata/37/370a07ba01954124f8aa49303888daa7.info
+#	new file:   New Unity Project/Library/metadata/37/371fa5d370f67534696194100d17bfad
+#	new file:   New Unity Project/Library/metadata/37/371fa5d370f67534696194100d17bfad.info
+#	new file:   New Unity Project/Library/metadata/38/3865c577318a0734bb11ba640d6cf0c4
+#	new file:   New Unity Project/Library/metadata/38/3865c577318a0734bb11ba640d6cf0c4.info
+#	new file:   New Unity Project/Library/metadata/39/39baceec69bb1ee4fb4194d50e1a6d10
+#	new file:   New Unity Project/Library/metadata/39/39baceec69bb1ee4fb4194d50e1a6d10.info
+#	new file:   New Unity Project/Library/metadata/3b/3bf2bbbc8bf6c674dbdd7e7bed3467bd
+#	new file:   New Unity Project/Library/metadata/3b/3bf2bbbc8bf6c674dbdd7e7bed3467bd.info
+#	new file:   New Unity Project/Library/metadata/3c/3cc8ac37e0da341db819af6143a07b03
+#	new file:   New Unity Project/Library/metadata/3c/3cc8ac37e0da341db819af6143a07b03.info
+#	new file:   New Unity Project/Library/metadata/3d/3dc82647157f5fb4d9b4bade4825b42d
+#	new file:   New Unity Project/Library/metadata/3d/3dc82647157f5fb4d9b4bade4825b42d.info
+#	new file:   New Unity Project/Library/metadata/3e/3e27d9cfd3a59af4ebdf7444f6f57620
+#	new file:   New Unity Project/Library/metadata/3e/3e27d9cfd3a59af4ebdf7444f6f57620.info
+#	new file:   New Unity Project/Library/metadata/41/41232aac50fb25a40b390906295f9aa6
+#	new file:   New Unity Project/Library/metadata/41/41232aac50fb25a40b390906295f9aa6.info
+#	new file:   New Unity Project/Library/metadata/41/4185bc77c7194462ca3b1097ef4a5de0
+#	new file:   New Unity Project/Library/metadata/41/4185bc77c7194462ca3b1097ef4a5de0.info
+#	new file:   New Unity Project/Library/metadata/42/42e7f46d0e5a84171a3909479c1646ba
+#	new file:   New Unity Project/Library/metadata/42/42e7f46d0e5a84171a3909479c1646ba.info
+#	new file:   New Unity Project/Library/metadata/44/440eb36db91ca410f800ff3cfe43572f
+#	new file:   New Unity Project/Library/metadata/44/440eb36db91ca410f800ff3cfe43572f.info
+#	new file:   New Unity Project/Library/metadata/45/45cab4c9b31009748999eec1556926b3
+#	new file:   New Unity Project/Library/metadata/45/45cab4c9b31009748999eec1556926b3.info
+#	new file:   New Unity Project/Library/metadata/46/46160e8fc1456bc4d9fb3de64ba88c31
+#	new file:   New Unity Project/Library/metadata/46/46160e8fc1456bc4d9fb3de64ba88c31.info
+#	new file:   New Unity Project/Library/metadata/46/469edab27ab6d004d84af2c4a851bd7f
+#	new file:   New Unity Project/Library/metadata/46/469edab27ab6d004d84af2c4a851bd7f.info
+#	new file:   New Unity Project/Library/metadata/47/475c4a4e617a8401b84ca7b32c7cc460
+#	new file:   New Unity Project/Library/metadata/47/475c4a4e617a8401b84ca7b32c7cc460.info
+#	new file:   New Unity Project/Library/metadata/4a/4ad3e35bf54f01849b9086cb6ef147ee
+#	new file:   New Unity Project/Library/metadata/4a/4ad3e35bf54f01849b9086cb6ef147ee.info
+#	new file:   New Unity Project/Library/metadata/4b/4be5b19d42487c24f830c4ee36849a95
+#	new file:   New Unity Project/Library/metadata/4b/4be5b19d42487c24f830c4ee36849a95.info
+#	new file:   New Unity Project/Library/metadata/4d/4d6c994b9ad45b847bc67ec5f857fc78
+#	new file:   New Unity Project/Library/metadata/4d/4d6c994b9ad45b847bc67ec5f857fc78.info
+#	new file:   New Unity Project/Library/metadata/4f/4f65f58f1750429468db4bef75317815
+#	new file:   New Unity Project/Library/metadata/4f/4f65f58f1750429468db4bef75317815.info
+#	new file:   New Unity Project/Library/metadata/4f/4f9d71771b07cb6438e0d35b038b43a7
+#	new file:   New Unity Project/Library/metadata/4f/4f9d71771b07cb6438e0d35b038b43a7.info
+#	new file:   New Unity Project/Library/metadata/50/50d95e01ce44ff842949168ffec200cf
+#	new file:   New Unity Project/Library/metadata/50/50d95e01ce44ff842949168ffec200cf.info
+#	new file:   New Unity Project/Library/metadata/52/52b7d70b1de7c4ce09662b77c14d9fda
+#	new file:   New Unity Project/Library/metadata/52/52b7d70b1de7c4ce09662b77c14d9fda.info
+#	new file:   New Unity Project/Library/metadata/54/54ee8e39b634b6d45aae528b6b24e879
+#	new file:   New Unity Project/Library/metadata/54/54ee8e39b634b6d45aae528b6b24e879.info
+#	new file:   New Unity Project/Library/metadata/55/5518af7f8b148ed4fa8836661c6f8c3e
+#	new file:   New Unity Project/Library/metadata/55/5518af7f8b148ed4fa8836661c6f8c3e.info
+#	new file:   New Unity Project/Library/metadata/55/55e2334423fefa34fb4916f6780413d3
+#	new file:   New Unity Project/Library/metadata/55/55e2334423fefa34fb4916f6780413d3.info
+#	new file:   New Unity Project/Library/metadata/57/57225f817366f704fb9b710e3865030d
+#	new file:   New Unity Project/Library/metadata/57/57225f817366f704fb9b710e3865030d.info
+#	new file:   New Unity Project/Library/metadata/57/57df284b8a7c87b4894ac5f9c86e0be9
+#	new file:   New Unity Project/Library/metadata/57/57df284b8a7c87b4894ac5f9c86e0be9.info
+#	new file:   New Unity Project/Library/metadata/58/58a059b07b093a745b47c2191525ddce
+#	new file:   New Unity Project/Library/metadata/58/58a059b07b093a745b47c2191525ddce.info
+#	new file:   New Unity Project/Library/metadata/5b/5b5c5575fd4c74abd9f7b30862fb76a3
+#	new file:   New Unity Project/Library/metadata/5b/5b5c5575fd4c74abd9f7b30862fb76a3.info
+#	new file:   New Unity Project/Library/metadata/5c/5c6bda52f548c164381f24c22067e446
+#	new file:   New Unity Project/Library/metadata/5c/5c6bda52f548c164381f24c22067e446.info
+#	new file:   New Unity Project/Library/metadata/5c/5ca387966638baf478f257729f7d9ffd
+#	new file:   New Unity Project/Library/metadata/5c/5ca387966638baf478f257729f7d9ffd.info
+#	new file:   New Unity Project/Library/metadata/5d/5d00b6fff05f79d41988633b3f93cf45
+#	new file:   New Unity Project/Library/metadata/5d/5d00b6fff05f79d41988633b3f93cf45.info
+#	new file:   New Unity Project/Library/metadata/5d/5d2a4cf4598e80f48a3b902218fb54d1
+#	new file:   New Unity Project/Library/metadata/5d/5d2a4cf4598e80f48a3b902218fb54d1.info
+#	new file:   New Unity Project/Library/metadata/61/612b65e0cd1576e4bbba0516d756a99d
+#	new file:   New Unity Project/Library/metadata/61/612b65e0cd1576e4bbba0516d756a99d.info
+#	new file:   New Unity Project/Library/metadata/63/6308da3d0ff986b42be3b0a6ea5b6fae
+#	new file:   New Unity Project/Library/metadata/63/6308da3d0ff986b42be3b0a6ea5b6fae.info
+#	new file:   New Unity Project/Library/metadata/63/639aa87a96d586c4e84838574ce20ca3
+#	new file:   New Unity Project/Library/metadata/63/639aa87a96d586c4e84838574ce20ca3.info
+#	new file:   New Unity Project/Library/metadata/65/654a2c1b911b36647b211a44a46e6d09
+#	new file:   New Unity Project/Library/metadata/65/654a2c1b911b36647b211a44a46e6d09.info
+#	new file:   New Unity Project/Library/metadata/65/656fde119942645aa8e062e04c119aa1
+#	new file:   New Unity Project/Library/metadata/65/656fde119942645aa8e062e04c119aa1.info
+#	new file:   New Unity Project/Library/metadata/68/681e41ee1260343b395ca58745c94870
+#	new file:   New Unity Project/Library/metadata/68/681e41ee1260343b395ca58745c94870.info
+#	new file:   New Unity Project/Library/metadata/6a/6aa58ee2f84094af2846e1a7bb0c23f9
+#	new file:   New Unity Project/Library/metadata/6a/6aa58ee2f84094af2846e1a7bb0c23f9.info
+#	new file:   New Unity Project/Library/metadata/6a/6aab193b7693b5e4c9741f1917d2987c
+#	new file:   New Unity Project/Library/metadata/6a/6aab193b7693b5e4c9741f1917d2987c.info
+#	new file:   New Unity Project/Library/metadata/6a/6af82a665aaf44c41874a383a4225c48
+#	new file:   New Unity Project/Library/metadata/6a/6af82a665aaf44c41874a383a4225c48.info
+#	new file:   New Unity Project/Library/metadata/6b/6b436d069d11415d1100ab9b44295342
+#	new file:   New Unity Project/Library/metadata/6b/6b436d069d11415d1100ab9b44295342.info
+#	new file:   New Unity Project/Library/metadata/6c/6c2afc8a038f69f4aa35c25dcd94fd55
+#	new file:   New Unity Project/Library/metadata/6c/6c2afc8a038f69f4aa35c25dcd94fd55.info
+#	new file:   New Unity Project/Library/metadata/6c/6c3b3265bf0f7e547a1ada8555f850a5
+#	new file:   New Unity Project/Library/metadata/6c/6c3b3265bf0f7e547a1ada8555f850a5.info
+#	new file:   New Unity Project/Library/metadata/6c/6ca8c4e270f964e0da9f731d7d34b123
+#	new file:   New Unity Project/Library/metadata/6c/6ca8c4e270f964e0da9f731d7d34b123.info
+#	new file:   New Unity Project/Library/metadata/6e/6e5212316bdb05c498d74aa4eedcca7b
+#	new file:   New Unity Project/Library/metadata/6e/6e5212316bdb05c498d74aa4eedcca7b.info
+#	new file:   New Unity Project/Library/metadata/6e/6e680dda9368db5418f19388474277a2
+#	new file:   New Unity Project/Library/metadata/6e/6e680dda9368db5418f19388474277a2.info
+#	new file:   New Unity Project/Library/metadata/70/706eadfad28bc4c1c9bb137b31052b14
+#	new file:   New Unity Project/Library/metadata/70/706eadfad28bc4c1c9bb137b31052b14.info
+#	new file:   New Unity Project/Library/metadata/71/7138dbfc17b0e8144bd2b9c4932da25f
+#	new file:   New Unity Project/Library/metadata/71/7138dbfc17b0e8144bd2b9c4932da25f.info
+#	modified:   New Unity Project/Library/metadata/72/72e2c86d3e2d1cc41a05a78e0783c80f.info
+#	new file:   New Unity Project/Library/metadata/73/7350b65a6431f604a8496c39db1ac9c5
+#	new file:   New Unity Project/Library/metadata/73/7350b65a6431f604a8496c39db1ac9c5.info
+#	new file:   New Unity Project/Library/metadata/73/73ab447d8034be44f8321c730cc6247a
+#	new file:   New Unity Project/Library/metadata/73/73ab447d8034be44f8321c730cc6247a.info
+#	new file:   New Unity Project/Library/metadata/76/76d1c0d83720ea445ba84ce7d478511a
+#	new file:   New Unity Project/Library/metadata/76/76d1c0d83720ea445ba84ce7d478511a.info
+#	new file:   New Unity Project/Library/metadata/78/780611a67e8e941a2b3aa96e5915a793
+#	new file:   New Unity Project/Library/metadata/78/780611a67e8e941a2b3aa96e5915a793.info
+#	new file:   New Unity Project/Library/metadata/7b/7bdd8cb386e0b554b84cb783663bb4fc
+#	new file:   New Unity Project/Library/metadata/7b/7bdd8cb386e0b554b84cb783663bb4fc.info
+#	new file:   New Unity Project/Library/metadata/7e/7e1102d3c9634e74d8116c418c12d9f9
+#	new file:   New Unity Project/Library/metadata/7e/7e1102d3c9634e74d8116c418c12d9f9.info
+#	new file:   New Unity Project/Library/metadata/7e/7e6f84bf81c8d4de280f1133cff7e601
+#	new file:   New Unity Project/Library/metadata/7e/7e6f84bf81c8d4de280f1133cff7e601.info
+#	new file:   New Unity Project/Library/metadata/7f/7f03a5a7175f67b4b8ce40a276f10474
+#	new file:   New Unity Project/Library/metadata/7f/7f03a5a7175f67b4b8ce40a276f10474.info
+#	new file:   New Unity Project/Library/metadata/81/819aba103e837f04ab8188bf68b8f5af
+#	new file:   New Unity Project/Library/metadata/81/819aba103e837f04ab8188bf68b8f5af.info
+#	new file:   New Unity Project/Library/metadata/82/8269a010592f549af8f11b1683d9e794
+#	new file:   New Unity Project/Library/metadata/82/8269a010592f549af8f11b1683d9e794.info
+#	new file:   New Unity Project/Library/metadata/84/8403d3349d112ba4d000be1be39e7c39
+#	new file:   New Unity Project/Library/metadata/84/8403d3349d112ba4d000be1be39e7c39.info
+#	new file:   New Unity Project/Library/metadata/84/843740dbe549a4a6ba9556d1b80001f5
+#	new file:   New Unity Project/Library/metadata/84/843740dbe549a4a6ba9556d1b80001f5.info
+#	new file:   New Unity Project/Library/metadata/84/8463742c798681445b9c44c1f2cfea33
+#	new file:   New Unity Project/Library/metadata/84/8463742c798681445b9c44c1f2cfea33.info
+#	new file:   New Unity Project/Library/metadata/84/84a557658689db048805ad4ed1a2d2dd
+#	new file:   New Unity Project/Library/metadata/84/84a557658689db048805ad4ed1a2d2dd.info
+#	new file:   New Unity Project/Library/metadata/85/855926cb3532dc14c87b1e6d589334b2
+#	new file:   New Unity Project/Library/metadata/85/855926cb3532dc14c87b1e6d589334b2.info
+#	new file:   New Unity Project/Library/metadata/85/85850461225a0cf49b9f9d6407ea336e
+#	new file:   New Unity Project/Library/metadata/85/85850461225a0cf49b9f9d6407ea336e.info
+#	new file:   New Unity Project/Library/metadata/88/881a8684e5feda54787dba17d5403c77
+#	new file:   New Unity Project/Library/metadata/88/881a8684e5feda54787dba17d5403c77.info
+#	new file:   New Unity Project/Library/metadata/88/88d655b0b8426bd45affee0c24e4d995
+#	new file:   New Unity Project/Library/metadata/88/88d655b0b8426bd45affee0c24e4d995.info
+#	new file:   New Unity Project/Library/metadata/89/897461e3c2fa9d84d8bd48bf1b00a950
+#	new file:   New Unity Project/Library/metadata/89/897461e3c2fa9d84d8bd48bf1b00a950.info
+#	new file:   New Unity Project/Library/metadata/89/89bc4a04979629642988a379a429608a
+#	new file:   New Unity Project/Library/metadata/89/89bc4a04979629642988a379a429608a.info
+#	new file:   New Unity Project/Library/metadata/8a/8aaff0751054e4a9cb4642d01eaf5be9
+#	new file:   New Unity Project/Library/metadata/8a/8aaff0751054e4a9cb4642d01eaf5be9.info
+#	new file:   New Unity Project/Library/metadata/8c/8c1755df5f552e843b9f8485f72e71f8
+#	new file:   New Unity Project/Library/metadata/8c/8c1755df5f552e843b9f8485f72e71f8.info
+#	new file:   New Unity Project/Library/metadata/8d/8dd74b5b0cac90d4780e94514654a7c5
+#	new file:   New Unity Project/Library/metadata/8d/8dd74b5b0cac90d4780e94514654a7c5.info
+#	new file:   New Unity Project/Library/metadata/94/947bb0bb1b741024495be8cb6e8ad3eb
+#	new file:   New Unity Project/Library/metadata/94/947bb0bb1b741024495be8cb6e8ad3eb.info
+#	new file:   New Unity Project/Library/metadata/94/9485b0c79d11e2e4d0007da98d76c639
+#	new file:   New Unity Project/Library/metadata/94/9485b0c79d11e2e4d0007da98d76c639.info
+#	new file:   New Unity Project/Library/metadata/95/951aab9a19f551f4385d0ceafdaf19b4
+#	new file:   New Unity Project/Library/metadata/95/951aab9a19f551f4385d0ceafdaf19b4.info
+#	new file:   New Unity Project/Library/metadata/95/951d74f7d57bed84cb623c62436bd064
+#	new file:   New Unity Project/Library/metadata/95/951d74f7d57bed84cb623c62436bd064.info
+#	new file:   New Unity Project/Library/metadata/96/9654cfdd87d7daf429b8931c28d7a93c
+#	new file:   New Unity Project/Library/metadata/96/9654cfdd87d7daf429b8931c28d7a93c.info
+#	new file:   New Unity Project/Library/metadata/97/97ad51f0a4aed0a4289f5462ce6dc18f
+#	new file:   New Unity Project/Library/metadata/97/97ad51f0a4aed0a4289f5462ce6dc18f.info
+#	new file:   New Unity Project/Library/metadata/98/9870bba806904414186957ae11b91c8c
+#	new file:   New Unity Project/Library/metadata/98/9870bba806904414186957ae11b91c8c.info
+#	new file:   New Unity Project/Library/metadata/98/98a0c4bded48f6e488eb93670599274e
+#	new file:   New Unity Project/Library/metadata/98/98a0c4bded48f6e488eb93670599274e.info
+#	new file:   New Unity Project/Library/metadata/98/98f48093c79e1de4aad538371abbe607
+#	new file:   New Unity Project/Library/metadata/98/98f48093c79e1de4aad538371abbe607.info
+#	new file:   New Unity Project/Library/metadata/99/9938463bcd729fe41b4937cb6d2d692b
+#	new file:   New Unity Project/Library/metadata/99/9938463bcd729fe41b4937cb6d2d692b.info
+#	new file:   New Unity Project/Library/metadata/9b/9b49c2e157c705944beb6767e25cd742
+#	new file:   New Unity Project/Library/metadata/9b/9b49c2e157c705944beb6767e25cd742.info
+#	new file:   New Unity Project/Library/metadata/9b/9b594b98c8a44404c9e8fd99515d0bed
+#	new file:   New Unity Project/Library/metadata/9b/9b594b98c8a44404c9e8fd99515d0bed.info
+#	new file:   New Unity Project/Library/metadata/9c/9cc6d6e9e3fe9154890a6f9caa77c955
+#	new file:   New Unity Project/Library/metadata/9c/9cc6d6e9e3fe9154890a6f9caa77c955.info
+#	new file:   New Unity Project/Library/metadata/9d/9dccc8e8f0da4494991c26ef59019551
+#	new file:   New Unity Project/Library/metadata/9d/9dccc8e8f0da4494991c26ef59019551.info
+#	new file:   New Unity Project/Library/metadata/9e/9e1ba296a381a454297a65c48de57379
+#	new file:   New Unity Project/Library/metadata/9e/9e1ba296a381a454297a65c48de57379.info
+#	new file:   New Unity Project/Library/metadata/a0/a0a4a426eaf7ddf4c84092e3687f0025
+#	new file:   New Unity Project/Library/metadata/a0/a0a4a426eaf7ddf4c84092e3687f0025.info
+#	new file:   New Unity Project/Library/metadata/a1/a1da353243062479a9b31c85074a796b
+#	new file:   New Unity Project/Library/metadata/a1/a1da353243062479a9b31c85074a796b.info
+#	new file:   New Unity Project/Library/metadata/a2/a2334d36b29b586448a434f61c6d7681
+#	new file:   New Unity Project/Library/metadata/a2/a2334d36b29b586448a434f61c6d7681.info
+#	modified:   New Unity Project/Library/metadata/a3/a3b997593a4f12c4c991490593f3b513
+#	new file:   New Unity Project/Library/metadata/a3/a3d3ef1a5bbfb4e0a910fbbe5830b1f9
+#	new file:   New Unity Project/Library/metadata/a3/a3d3ef1a5bbfb4e0a910fbbe5830b1f9.info
+#	new file:   New Unity Project/Library/metadata/a4/a437a9b380909fa4d98f929428f70388
+#	new file:   New Unity Project/Library/metadata/a4/a437a9b380909fa4d98f929428f70388.info
+#	new file:   New Unity Project/Library/metadata/a5/a53cf5449d11a15d1100a04b44295342
+#	new file:   New Unity Project/Library/metadata/a5/a53cf5449d11a15d1100a04b44295342.info
+#	new file:   New Unity Project/Library/metadata/a5/a5f2339f242f6cc41a982ec55ea3c201
+#	new file:   New Unity Project/Library/metadata/a5/a5f2339f242f6cc41a982ec55ea3c201.info
+#	new file:   New Unity Project/Library/metadata/a6/a6377aef3cc4b054c9c996fa724f9231
+#	new file:   New Unity Project/Library/metadata/a6/a6377aef3cc4b054c9c996fa724f9231.info
+#	new file:   New Unity Project/Library/metadata/a6/a6b21b8c372827345a11bae2fb736e36
+#	new file:   New Unity Project/Library/metadata/a6/a6b21b8c372827345a11bae2fb736e36.info
+#	new file:   New Unity Project/Library/metadata/a6/a6e42589b1029ec4d962f422f92e554a
+#	new file:   New Unity Project/Library/metadata/a6/a6e42589b1029ec4d962f422f92e554a.info
+#	new file:   New Unity Project/Library/metadata/a7/a771af3b1958445078af5fe2e9ec726c
+#	new file:   New Unity Project/Library/metadata/a7/a771af3b1958445078af5fe2e9ec726c.info
+#	new file:   New Unity Project/Library/metadata/a7/a799096c768701d489304037e0d48711
+#	new file:   New Unity Project/Library/metadata/a7/a799096c768701d489304037e0d48711.info
+#	new file:   New Unity Project/Library/metadata/a9/a940b48d553d9c74f9ca0a3b4cf74336
+#	new file:   New Unity Project/Library/metadata/a9/a940b48d553d9c74f9ca0a3b4cf74336.info
+#	new file:   New Unity Project/Library/metadata/a9/a9c35d1eec67849419bd87d162ba90a7
+#	new file:   New Unity Project/Library/metadata/a9/a9c35d1eec67849419bd87d162ba90a7.info
+#	new file:   New Unity Project/Library/metadata/aa/aab31d685ba2a05428f204ebad56f319
+#	new file:   New Unity Project/Library/metadata/aa/aab31d685ba2a05428f204ebad56f319.info
+#	new file:   New Unity Project/Library/metadata/ab/ab89d7e9dbd9462458ecef029ee60f6e
+#	new file:   New Unity Project/Library/metadata/ab/ab89d7e9dbd9462458ecef029ee60f6e.info
+#	new file:   New Unity Project/Library/metadata/ab/ab97f9ab7c2ce724ebc9446060a819a4
+#	new file:   New Unity Project/Library/metadata/ab/ab97f9ab7c2ce724ebc9446060a819a4.info
+#	new file:   New Unity Project/Library/metadata/ac/ac85670a1b2274f22905d6a43940371a
+#	new file:   New Unity Project/Library/metadata/ac/ac85670a1b2274f22905d6a43940371a.info
+#	new file:   New Unity Project/Library/metadata/b0/b063a9f2b9f645b40948a32b447c738f
+#	new file:   New Unity Project/Library/metadata/b0/b063a9f2b9f645b40948a32b447c738f.info
+#	new file:   New Unity Project/Library/metadata/b0/b0d5705176a0d36419d034e2ea46491a
+#	new file:   New Unity Project/Library/metadata/b0/b0d5705176a0d36419d034e2ea46491a.info
+#	new file:   New Unity Project/Library/metadata/b5/b544816461f324e56a39767fdeb5b114
+#	new file:   New Unity Project/Library/metadata/b5/b544816461f324e56a39767fdeb5b114.info
+#	new file:   New Unity Project/Library/metadata/b5/b552931caa1b3ea418b9ba90cbd1333e
+#	new file:   New Unity Project/Library/metadata/b5/b552931caa1b3ea418b9ba90cbd1333e.info
+#	new file:   New Unity Project/Library/metadata/b5/b5b8c0f9acc2944f086c02cb83f4ae76
+#	new file:   New Unity Project/Library/metadata/b5/b5b8c0f9acc2944f086c02cb83f4ae76.info
+#	new file:   New Unity Project/Library/metadata/b6/b67e64eb082f65842b14fd410db8c2cd
+#	new file:   New Unity Project/Library/metadata/b6/b67e64eb082f65842b14fd410db8c2cd.info
+#	new file:   New Unity Project/Library/metadata/b6/b69e3f984d765c646a0f912d9a1cefc9
+#	new file:   New Unity Project/Library/metadata/b6/b69e3f984d765c646a0f912d9a1cefc9.info
+#	new file:   New Unity Project/Library/metadata/b7/b725b62cfc9d04e4886735ab2a8107d1
+#	new file:   New Unity Project/Library/metadata/b7/b725b62cfc9d04e4886735ab2a8107d1.info
+#	new file:   New Unity Project/Library/metadata/b8/b87734d3c84dd1c43bd931282e470145
+#	new file:   New Unity Project/Library/metadata/b8/b87734d3c84dd1c43bd931282e470145.info
+#	new file:   New Unity Project/Library/metadata/ba/ba6a41dc489914734857bb5924eb70ad
+#	new file:   New Unity Project/Library/metadata/ba/ba6a41dc489914734857bb5924eb70ad.info
+#	new file:   New Unity Project/Library/metadata/bc/bc6e7e1374ff3e1459f65bf72da64c85
+#	new file:   New Unity Project/Library/metadata/bc/bc6e7e1374ff3e1459f65bf72da64c85.info
+#	new file:   New Unity Project/Library/metadata/bc/bcae914220acd4907840a029bb9d9aec
+#	new file:   New Unity Project/Library/metadata/bc/bcae914220acd4907840a029bb9d9aec.info
+#	new file:   New Unity Project/Library/metadata/be/be053ea3235ccb64a889bf0b15c2764b
+#	new file:   New Unity Project/Library/metadata/be/be053ea3235ccb64a889bf0b15c2764b.info
+#	new file:   New Unity Project/Library/metadata/bf/bf4c945c1f5a9b74bb15ab0c7f238617
+#	new file:   New Unity Project/Library/metadata/bf/bf4c945c1f5a9b74bb15ab0c7f238617.info
+#	new file:   New Unity Project/Library/metadata/bf/bf8162ab40cfad34cac743bdc2939f99
+#	new file:   New Unity Project/Library/metadata/bf/bf8162ab40cfad34cac743bdc2939f99.info
+#	new file:   New Unity Project/Library/metadata/bf/bfc1dabf45016eb46b99df1a78054924
+#	new file:   New Unity Project/Library/metadata/bf/bfc1dabf45016eb46b99df1a78054924.info
+#	new file:   New Unity Project/Library/metadata/bf/bfd675cc0db1d4656b75dc6d6ba91142
+#	new file:   New Unity Project/Library/metadata/bf/bfd675cc0db1d4656b75dc6d6ba91142.info
+#	new file:   New Unity Project/Library/metadata/c0/c04a867c41990cb44b46672730a8e63f
+#	new file:   New Unity Project/Library/metadata/c0/c04a867c41990cb44b46672730a8e63f.info
+#	new file:   New Unity Project/Library/metadata/c2/c22094bc116524b2a95c9aae09278b22
+#	new file:   New Unity Project/Library/metadata/c2/c22094bc116524b2a95c9aae09278b22.info
+#	new file:   New Unity Project/Library/metadata/c4/c487fc8e98a2a42488a6c0a36ccaec27
+#	new file:   New Unity Project/Library/metadata/c4/c487fc8e98a2a42488a6c0a36ccaec27.info
+#	new file:   New Unity Project/Library/metadata/c4/c4a7fc95fd5ac3942b8e85ec6c60a1fa
+#	new file:   New Unity Project/Library/metadata/c4/c4a7fc95fd5ac3942b8e85ec6c60a1fa.info
+#	new file:   New Unity Project/Library/metadata/c5/c55afdc4a8a3b4890b07cc7d176510bb
+#	new file:   New Unity Project/Library/metadata/c5/c55afdc4a8a3b4890b07cc7d176510bb.info
+#	new file:   New Unity Project/Library/metadata/c6/c62b7d87755b447919138e67f8e22e0c
+#	new file:   New Unity Project/Library/metadata/c6/c62b7d87755b447919138e67f8e22e0c.info
+#	new file:   New Unity Project/Library/metadata/c6/c688b8230f338954e977969bd4457584
+#	new file:   New Unity Project/Library/metadata/c6/c688b8230f338954e977969bd4457584.info
+#	new file:   New Unity Project/Library/metadata/c6/c6e0767b1f8c34890ac245217f4b9731
+#	new file:   New Unity Project/Library/metadata/c6/c6e0767b1f8c34890ac245217f4b9731.info
+#	new file:   New Unity Project/Library/metadata/c8/c80a8cbb1a6173542aed7c4bd286e9c9
+#	new file:   New Unity Project/Library/metadata/c8/c80a8cbb1a6173542aed7c4bd286e9c9.info
+#	new file:   New Unity Project/Library/metadata/c8/c8e96a067d1ef4982b454cf5a686f648
+#	new file:   New Unity Project/Library/metadata/c8/c8e96a067d1ef4982b454cf5a686f648.info
+#	new file:   New Unity Project/Library/metadata/c9/c91c1eb85782d5748ace27eb4d7415bb
+#	new file:   New Unity Project/Library/metadata/c9/c91c1eb85782d5748ace27eb4d7415bb.info
+#	new file:   New Unity Project/Library/metadata/c9/c9de3ae2361df6c469caeb2024321cbf
+#	new file:   New Unity Project/Library/metadata/c9/c9de3ae2361df6c469caeb2024321cbf.info
+#	new file:   New Unity Project/Library/metadata/cb/cba4562cece794697b418ce8e7c04b3c
+#	new file:   New Unity Project/Library/metadata/cb/cba4562cece794697b418ce8e7c04b3c.info
+#	new file:   New Unity Project/Library/metadata/cd/cd764ab8662bea6468202df8741bcfd3
+#	new file:   New Unity Project/Library/metadata/cd/cd764ab8662bea6468202df8741bcfd3.info
+#	new file:   New Unity Project/Library/metadata/ce/ce8d79c79d11b8f9d00076e98d76c639
+#	new file:   New Unity Project/Library/metadata/ce/ce8d79c79d11b8f9d00076e98d76c639.info
+#	new file:   New Unity Project/Library/metadata/d0/d027af1092f6b434090f040565e7e656
+#	new file:   New Unity Project/Library/metadata/d0/d027af1092f6b434090f040565e7e656.info
+#	new file:   New Unity Project/Library/metadata/d0/d02ca93506797924583a2ce43e5efdc0
+#	new file:   New Unity Project/Library/metadata/d0/d02ca93506797924583a2ce43e5efdc0.info
+#	new file:   New Unity Project/Library/metadata/d2/d20e5329bb2905844a1ae38b80640d3f
+#	new file:   New Unity Project/Library/metadata/d2/d20e5329bb2905844a1ae38b80640d3f.info
+#	new file:   New Unity Project/Library/metadata/d2/d25c4f81e90442d4bbda4d5285669c95
+#	new file:   New Unity Project/Library/metadata/d2/d25c4f81e90442d4bbda4d5285669c95.info
+#	new file:   New Unity Project/Library/metadata/d4/d4880c932a8e12b48a3039233e9634a0
+#	new file:   New Unity Project/Library/metadata/d4/d4880c932a8e12b48a3039233e9634a0.info
+#	new file:   New Unity Project/Library/metadata/d5/d5222114580affc49a2af92470232e23
+#	new file:   New Unity Project/Library/metadata/d5/d5222114580affc49a2af92470232e23.info
+#	new file:   New Unity Project/Library/metadata/d5/d5b20def9c5c05748a01627738b94531
+#	new file:   New Unity Project/Library/metadata/d5/d5b20def9c5c05748a01627738b94531.info
+#	new file:   New Unity Project/Library/metadata/d6/d68104aea3d1d084385a1acc7c896247
+#	new file:   New Unity Project/Library/metadata/d6/d68104aea3d1d084385a1acc7c896247.info
+#	new file:   New Unity Project/Library/metadata/d6/d6cdc79ec19714fcd980ca3f6ac01a0a
+#	new file:   New Unity Project/Library/metadata/d6/d6cdc79ec19714fcd980ca3f6ac01a0a.info
+#	new file:   New Unity Project/Library/metadata/d8/d854cfbf66ed773479b786e2b70b7e81
+#	new file:   New Unity Project/Library/metadata/d8/d854cfbf66ed773479b786e2b70b7e81.info
+#	new file:   New Unity Project/Library/metadata/d9/d954891cb9e58434d86e01d839ed4997
+#	new file:   New Unity Project/Library/metadata/d9/d954891cb9e58434d86e01d839ed4997.info
+#	new file:   New Unity Project/Library/metadata/da/dadc5b37469680d459becabb403655ad
+#	new file:   New Unity Project/Library/metadata/da/dadc5b37469680d459becabb403655ad.info
+#	new file:   New Unity Project/Library/metadata/db/db2f1c62933fa1745a9eb8479b15698b
+#	new file:   New Unity Project/Library/metadata/db/db2f1c62933fa1745a9eb8479b15698b.info
+#	new file:   New Unity Project/Library/metadata/dc/dc7abfa0435174ded902b073322d67cc
+#	new file:   New Unity Project/Library/metadata/dc/dc7abfa0435174ded902b073322d67cc.info
+#	new file:   New Unity Project/Library/metadata/dc/dceb1c2577bc0c04aac2efd948ab69cf
+#	new file:   New Unity Project/Library/metadata/dc/dceb1c2577bc0c04aac2efd948ab69cf.info
+#	new file:   New Unity Project/Library/metadata/dd/dd49a2ed5943a014e8d933ff5381281a
+#	new file:   New Unity Project/Library/metadata/dd/dd49a2ed5943a014e8d933ff5381281a.info
+#	new file:   New Unity Project/Library/metadata/de/de2ab2b9ac93bb544b9552e49030371b
+#	new file:   New Unity Project/Library/metadata/de/de2ab2b9ac93bb544b9552e49030371b.info
+#	new file:   New Unity Project/Library/metadata/df/dffa6c1325fd30b41819f03be58b91e7
+#	new file:   New Unity Project/Library/metadata/df/dffa6c1325fd30b41819f03be58b91e7.info
+#	new file:   New Unity Project/Library/metadata/e1/e183610e060210e44ac38d34e83c54d1
+#	new file:   New Unity Project/Library/metadata/e1/e183610e060210e44ac38d34e83c54d1.info
+#	new file:   New Unity Project/Library/metadata/e2/e2e84b28786ce854391d79fb76df820b
+#	new file:   New Unity Project/Library/metadata/e2/e2e84b28786ce854391d79fb76df820b.info
+#	new file:   New Unity Project/Library/metadata/e4/e49510ed78ae6604e9ce2384dbd67a6c
+#	new file:   New Unity Project/Library/metadata/e4/e49510ed78ae6604e9ce2384dbd67a6c.info
+#	new file:   New Unity Project/Library/metadata/e6/e621ee108fde15148a5e4b4ab67667b9
+#	new file:   New Unity Project/Library/metadata/e6/e621ee108fde15148a5e4b4ab67667b9.info
+#	new file:   New Unity Project/Library/metadata/e6/e625f56663597ef4899f86b588b4d506
+#	new file:   New Unity Project/Library/metadata/e6/e625f56663597ef4899f86b588b4d506.info
+#	new file:   New Unity Project/Library/metadata/e6/e633a20421c47426aa04444234225b69
+#	new file:   New Unity Project/Library/metadata/e6/e633a20421c47426aa04444234225b69.info
+#	new file:   New Unity Project/Library/metadata/e6/e6751882f7503bd4f9c6c3902e8b6188
+#	new file:   New Unity Project/Library/metadata/e6/e6751882f7503bd4f9c6c3902e8b6188.info
+#	new file:   New Unity Project/Library/metadata/e6/e6a8e6ae86a5b904eb64f573f145ecde
+#	new file:   New Unity Project/Library/metadata/e6/e6a8e6ae86a5b904eb64f573f145ecde.info
+#	new file:   New Unity Project/Library/metadata/e7/e70b47c0cfc1d4b12a3c663d7582a523
+#	new file:   New Unity Project/Library/metadata/e7/e70b47c0cfc1d4b12a3c663d7582a523.info
+#	new file:   New Unity Project/Library/metadata/e7/e7b2d3eeb0a4d694792c93a8ab87e4a4
+#	new file:   New Unity Project/Library/metadata/e7/e7b2d3eeb0a4d694792c93a8ab87e4a4.info
+#	new file:   New Unity Project/Library/metadata/ea/ea5ccbd85cf4ce74d911e226587f70cf
+#	new file:   New Unity Project/Library/metadata/ea/ea5ccbd85cf4ce74d911e226587f70cf.info
+#	new file:   New Unity Project/Library/metadata/ea/ea60173ceac07334c91568c48cc765cd
+#	new file:   New Unity Project/Library/metadata/ea/ea60173ceac07334c91568c48cc765cd.info
+#	new file:   New Unity Project/Library/metadata/ea/ea9799c461d3f6e4eb0be2264829282d
+#	new file:   New Unity Project/Library/metadata/ea/ea9799c461d3f6e4eb0be2264829282d.info
+#	new file:   New Unity Project/Library/metadata/eb/ebf27ab4608cad346822303ee4769488
+#	new file:   New Unity Project/Library/metadata/eb/ebf27ab4608cad346822303ee4769488.info
+#	new file:   New Unity Project/Library/metadata/ee/ee07ea8cb1a00c844b4048d37dcfe712
+#	new file:   New Unity Project/Library/metadata/ee/ee07ea8cb1a00c844b4048d37dcfe712.info
+#	new file:   New Unity Project/Library/metadata/ee/ee0b78d572fcec249860ad38970b7888
+#	new file:   New Unity Project/Library/metadata/ee/ee0b78d572fcec249860ad38970b7888.info
+#	new file:   New Unity Project/Library/metadata/ef/ef5c51cfa2ce46043a41a376b560c525
+#	new file:   New Unity Project/Library/metadata/ef/ef5c51cfa2ce46043a41a376b560c525.info
+#	new file:   New Unity Project/Library/metadata/f0/f0d8945c7972e4747aa776e16494fa37
+#	new file:   New Unity Project/Library/metadata/f0/f0d8945c7972e4747aa776e16494fa37.info
+#	new file:   New Unity Project/Library/metadata/f1/f15241bc5a839ea46bf857431081d715
+#	new file:   New Unity Project/Library/metadata/f1/f15241bc5a839ea46bf857431081d715.info
+#	new file:   New Unity Project/Library/metadata/f1/f1bc741ea0e69a241896582ddb633d55
+#	new file:   New Unity Project/Library/metadata/f1/f1bc741ea0e69a241896582ddb633d55.info
+#	new file:   New Unity Project/Library/metadata/f2/f225bb23e50ff064f8ef806aed63bbd1
+#	new file:   New Unity Project/Library/metadata/f2/f225bb23e50ff064f8ef806aed63bbd1.info
+#	new file:   New Unity Project/Library/metadata/f4/f420aff58dc8992489809a07ff0b3889
+#	new file:   New Unity Project/Library/metadata/f4/f420aff58dc8992489809a07ff0b3889.info
+#	new file:   New Unity Project/Library/metadata/f4/f43b0d85aede78949b2f8fa931a218a4
+#	new file:   New Unity Project/Library/metadata/f4/f43b0d85aede78949b2f8fa931a218a4.info
+#	new file:   New Unity Project/Library/metadata/f5/f568ca8b20ae095418f3e2a3b341d8f6
+#	new file:   New Unity Project/Library/metadata/f5/f568ca8b20ae095418f3e2a3b341d8f6.info
+#	new file:   New Unity Project/Library/metadata/f8/f82badc465974aa4cbc424065780aa3d
+#	new file:   New Unity Project/Library/metadata/f8/f82badc465974aa4cbc424065780aa3d.info
+#	new file:   New Unity Project/Library/metadata/fa/fa40ba727cdc90245aac11f0ff5ead8e
+#	new file:   New Unity Project/Library/metadata/fa/fa40ba727cdc90245aac11f0ff5ead8e.info
+#	new file:   New Unity Project/Library/metadata/fb/fb6566c21f717904f83743a5a76dd0b0
+#	new file:   New Unity Project/Library/metadata/fb/fb6566c21f717904f83743a5a76dd0b0.info
+#	new file:   New Unity Project/Library/metadata/fc/fcb0c998d6c7ffe449da6f4843d6ae64
+#	new file:   New Unity Project/Library/metadata/fc/fcb0c998d6c7ffe449da6f4843d6ae64.info
+#	new file:   New Unity Project/Library/metadata/fc/fccbc286066cd49418466e206a8a4654
+#	new file:   New Unity Project/Library/metadata/fc/fccbc286066cd49418466e206a8a4654.info
+#	new file:   New Unity Project/Library/metadata/fc/fccca0d181c493e46828f38365641574
+#	new file:   New Unity Project/Library/metadata/fc/fccca0d181c493e46828f38365641574.info
+#	new file:   New Unity Project/Library/metadata/fd/fd4ffa1583bdca841a155eee04e1182f
+#	new file:   New Unity Project/Library/metadata/fd/fd4ffa1583bdca841a155eee04e1182f.info
+#	new file:   New Unity Project/Library/metadata/fd/fdb77c3917027234db7a7792019eda2e
+#	new file:   New Unity Project/Library/metadata/fd/fdb77c3917027234db7a7792019eda2e.info
+#	new file:   New Unity Project/Library/metadata/fe/fe5d00245bc1d42a7927f4b2879026b8
+#	new file:   New Unity Project/Library/metadata/fe/fe5d00245bc1d42a7927f4b2879026b8.info
+#	new file:   New Unity Project/Library/metadata/fe/fecc9f713338e4943a8c38775af8c046
+#	new file:   New Unity Project/Library/metadata/fe/fecc9f713338e4943a8c38775af8c046.info
+#	modified:   New Unity Project/Library/shadercompiler-UnityShaderCompiler.exe0.log
+#	modified:   New Unity Project/New Unity Project.sln
+#	new file:   New Unity Project/New Unity Project.userprefs
+#	modified:   New Unity Project/ProjectSettings/GraphicsSettings.asset
+#	new file:   New Unity Project/obj/Debug/Assembly-CSharp.csproj.FileListAbsolute.txt
+#	new file:   New Unity Project/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+#	new file:   New Unity Project/obj/Debug/Assembly-CSharp.dll
+#	new file:   New Unity Project/obj/Debug/Assembly-CSharp.pdb
+#
+
