@@ -72,20 +72,31 @@
     <Compile Include="Assets\Cha_Data\Script\ScreenShot.cs" />
     <Compile Include="Assets\Moveing platform.cs" />
     <Compile Include="Assets\Spin.cs" />
-    <Compile Include="Assets\desertAssets\scripts\MovingPlatformsx.cs" />
-    <Compile Include="Assets\desertAssets\scripts\MovingPlatformsz.cs" />
+    <Compile Include="Assets\desertAssets\scripts\addCoin.cs" />
+    <Compile Include="Assets\desertAssets\scripts\addGem.cs" />
+    <Compile Include="Assets\desertAssets\scripts\currencyRecorder.cs" />
+    <Compile Include="Assets\desertAssets\scripts\fallingPlatforms.cs" />
+    <Compile Include="Assets\desertAssets\scripts\movePlatform.cs" />
+    <Compile Include="Assets\desertAssets\scripts\respawnPlayer.cs" />
+    <Compile Include="Assets\desertAssets\scripts\rotate.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Baker House\Readme.txt" />
     <None Include="Assets\Cha_Data\Shader\WrapLambert.shader" />
     <None Include="Assets\Horse\SoftAlpha.shader" />
     <None Include="Assets\PowerUps Vol 1 Free\Readme.txt" />
+    <None Include="Assets\ProjectSettings\ProjectVersion.txt" />
     <None Include="Assets\Readme.txt" />
     <None Include="Assets\SimpleSky\ReadMe.txt" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
+    <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
     <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
