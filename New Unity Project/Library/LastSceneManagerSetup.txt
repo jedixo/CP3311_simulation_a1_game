@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/cenote.unity
+- path: Assets/moving platforms.unity
   isLoaded: 1
   isActive: 1
