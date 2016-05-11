@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Custom Assets\Scripts\LoadOnClick.cs" />
      <Compile Include="Assets\Custom Assets\desertAssets\scripts\SimpleAi.cs" />
      <Compile Include="Assets\Custom Assets\desertAssets\scripts\addCoin.cs" />
      <Compile Include="Assets\Custom Assets\desertAssets\scripts\addGem.cs" />
