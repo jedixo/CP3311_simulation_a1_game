@@ -58,6 +58,12 @@
     <Reference Include="UnityEngine.Networking">
       <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>Library\UnityAssemblies\UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>Library\UnityAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
@@ -75,13 +81,17 @@
     <Compile Include="Assets\Custom Assets\desertAssets\scripts\currencyRecorder.cs" />
     <Compile Include="Assets\Custom Assets\desertAssets\scripts\fallingPlatforms.cs" />
     <Compile Include="Assets\Custom Assets\desertAssets\scripts\movePlatform.cs" />
+    <Compile Include="Assets\Custom Assets\desertAssets\scripts\playerFollowPlatofrm.cs" />
     <Compile Include="Assets\Custom Assets\desertAssets\scripts\respawnPlayer.cs" />
     <Compile Include="Assets\Custom Assets\desertAssets\scripts\rotate.cs" />
-    <Compile Include="Assets\Moveing platform.cs" />
+    <Compile Include="Assets\Lava_Flowing_Shader\Scripts\ScrollingUVs_Layers.cs" />
     <Compile Include="Assets\Spin.cs" />
     <Compile Include="Assets\Third Party Assets\Cha_Data\Script\ScreenShot.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Lava_Flowing_Shader\ReadMe.txt" />
+    <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader" />
+    <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader" />
     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
@@ -91,6 +101,10 @@
     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
     <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
+    <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
+    <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
+    <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
+    <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
     <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
     <None Include="Assets\Third Party Assets\Baker House\Readme.txt" />
     <None Include="Assets\Third Party Assets\Cha_Data\Shader\WrapLambert.shader" />
