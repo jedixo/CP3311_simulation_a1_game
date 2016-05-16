@@ -7,7 +7,7 @@ public class addGem : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+		levelVariables = GameObject.Find("levelVariables");
 	}
 	
 	// Update is called once per frame
