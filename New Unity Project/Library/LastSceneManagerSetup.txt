@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/CAVE.unity
-=======
-- path: Assets/MainMenu.unity
->>>>>>> origin/master
+- path: Assets/desert.unity
   isLoaded: 1
   isActive: 1
