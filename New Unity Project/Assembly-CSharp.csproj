@@ -45,6 +45,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Custom Assets\Scripts\LoadLevel.cs" />
      <Compile Include="Assets\Custom Assets\Scripts\LoadOnClick.cs" />
      <Compile Include="Assets\Custom Assets\Scripts\Pause.cs" />
      <Compile Include="Assets\Custom Assets\Scripts\dontDestroy.cs" />
