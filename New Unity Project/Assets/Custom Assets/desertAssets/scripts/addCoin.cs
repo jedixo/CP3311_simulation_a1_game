@@ -7,15 +7,14 @@ public class addCoin : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		levelVariables = GameObject.Find("levelVariables");
+
 		levelVariables.GetComponent<currencyRecorder> ().totalCoins++;
 	
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		
-	
-	}
+
 
 	void OnTriggerEnter(Collider other) {
 		levelVariables.GetComponent<currencyRecorder>().coins++;

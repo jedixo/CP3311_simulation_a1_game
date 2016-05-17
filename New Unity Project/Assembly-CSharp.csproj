@@ -45,7 +45,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Custom Assets\Scripts\LoadLevel.cs" />
      <Compile Include="Assets\Custom Assets\Scripts\LoadOnClick.cs" />
+     <Compile Include="Assets\Custom Assets\Scripts\Pause.cs" />
+     <Compile Include="Assets\Custom Assets\Scripts\dontDestroy.cs" />
+     <Compile Include="Assets\Custom Assets\Scripts\test.cs" />
      <Compile Include="Assets\Custom Assets\desertAssets\scripts\SimpleAi.cs" />
      <Compile Include="Assets\Custom Assets\desertAssets\scripts\addCoin.cs" />
      <Compile Include="Assets\Custom Assets\desertAssets\scripts\addGem.cs" />
@@ -56,7 +60,6 @@
      <Compile Include="Assets\Custom Assets\desertAssets\scripts\respawnPlayer.cs" />
      <Compile Include="Assets\Custom Assets\desertAssets\scripts\rotate.cs" />
      <Compile Include="Assets\Lava_Flowing_Shader\Scripts\ScrollingUVs_Layers.cs" />
-     <Compile Include="Assets\Moveing platform.cs" />
      <Compile Include="Assets\Spin.cs" />
      <Compile Include="Assets\Third Party Assets\Cha_Data\Script\ScreenShot.cs" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
