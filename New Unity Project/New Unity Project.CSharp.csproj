@@ -69,7 +69,11 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Custom Assets\Scripts\LoadLevel.cs" />
     <Compile Include="Assets\Custom Assets\Scripts\LoadOnClick.cs" />
+    <Compile Include="Assets\Custom Assets\Scripts\Pause.cs" />
+    <Compile Include="Assets\Custom Assets\Scripts\dontDestroy.cs" />
+    <Compile Include="Assets\Custom Assets\Scripts\test.cs" />
     <Compile Include="Assets\Custom Assets\desertAssets\scripts\SimpleAi.cs" />
     <Compile Include="Assets\Custom Assets\desertAssets\scripts\addCoin.cs" />
     <Compile Include="Assets\Custom Assets\desertAssets\scripts\addGem.cs" />
