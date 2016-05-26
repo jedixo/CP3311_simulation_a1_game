@@ -69,6 +69,7 @@
      <Compile Include="Assets\ProtoPack\Scripts\SlimeMoveTest.cs" />
      <Compile Include="Assets\Spin.cs" />
      <Compile Include="Assets\Third Party Assets\Cha_Data\Script\ScreenShot.cs" />
+     <Compile Include="Assets\healthController.cs" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\Third Party Assets\ProjectSettings\ProjectVersion.txt" />
      <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader" />
