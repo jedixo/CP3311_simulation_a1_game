@@ -10,10 +10,9 @@ public class test : MonoBehaviour
 
 		if (other.gameObject.tag == "platform") {
 
-				Vector3 prevPos = transform.position;
+				
 		
 				transform.parent = other.transform;
-				transform.position = prevPos;
 
 
 		} else {
