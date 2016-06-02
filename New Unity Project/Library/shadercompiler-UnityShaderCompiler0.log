@@ -1,2 +1,40 @@
 Base path: /Applications/Unity/Unity.app/Contents
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=447 outsize=447 ok=1
+Cmd: preprocess
+  insize=4159 outsize=1016 ok=1
+Cmd: preprocess
+  insize=1013 outsize=1566 ok=1
+Cmd: preprocess
+  insize=12815 outsize=2575 ok=1
+Cmd: preprocess
+  insize=1048 outsize=1039 ok=1
+Cmd: preprocess
+  insize=2274 outsize=1042 ok=1
+Cmd: preprocess
+  insize=2237 outsize=975 ok=1
+Cmd: preprocess
+  insize=1493 outsize=490 ok=1
+Cmd: preprocess
+  insize=1090 outsize=1096 ok=1
+Cmd: preprocess
+  insize=11975 outsize=2457 ok=1
+Cmd: preprocess
+  insize=1743 outsize=990 ok=1
+Cmd: preprocess
+  insize=1802 outsize=527 ok=1
+Cmd: preprocess
+  insize=1740 outsize=1329 ok=1
+Cmd: preprocess
+  insize=1162 outsize=351 ok=1
+Cmd: preprocess
+  insize=2274 outsize=1036 ok=1
+Cmd: preprocess
+  insize=1500 outsize=667 ok=1
+Cmd: preprocess
+  insize=8031 outsize=1233 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (96): 'LightingLambert': cannot implicitly convert from 'half3' to 'struct UnityGI'\nCompiling Vertex program with DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP
+  api=15 type=0 insize=3700 outsize=0 kw=DIRECTIONAL LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP ok=0
