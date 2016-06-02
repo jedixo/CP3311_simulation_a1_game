@@ -4,10 +4,10 @@ using System.Collections;
 public class respawnPlayer : MonoBehaviour {
 
 	private GameObject player;
-	public float x = 0;
-	public float y = 0;
-	public float z = 0;
-	public float deathHeight = -5;
+	public float x;
+	public float y;
+	public float z;
+	public float deathHeight;
 	// Use this for initialization
 	void Start () {
 		player = this.gameObject;

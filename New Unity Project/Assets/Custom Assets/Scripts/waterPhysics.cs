@@ -3,9 +3,11 @@ using System.Collections;
 
 public class waterPhysics : MonoBehaviour {
     public GameObject player;
+    public GameObject waterBox;
+    private MeshRenderer water;
 	// Use this for initialization
 	void Start () {
-	
+        water = waterBox.GetComponent<MeshRenderer>();
 	}
 	
 	// Update is called once per frame
@@ -14,6 +16,13 @@ public class waterPhysics : MonoBehaviour {
 	}
     void OnTriggerEnter()
     {
-        player.GetComponent<Rigidbody>().mass = (player.GetComponent<Rigidbody>().mass)/2;
+        player.GetComponent<Rigidbody>().mass = 5;
+        player.GetComponent<Rigidbody>().drag = 5;
+        water.enabled = true;
+        Debug.Log(water);
+    }
+    void OnTriggerExit()
+    {
+        water.enabled = false;
     }
 }
