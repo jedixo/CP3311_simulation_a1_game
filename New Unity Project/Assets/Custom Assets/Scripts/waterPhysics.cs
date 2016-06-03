@@ -1,8 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityStandardAssets.Characters.FirstPerson;
 
 public class waterPhysics : MonoBehaviour {
     public GameObject player;
+	public GameObject playerFpc;
     public GameObject waterBox;
     private MeshRenderer water;
 	// Use this for initialization
@@ -16,6 +18,7 @@ public class waterPhysics : MonoBehaviour {
 	}
     void OnTriggerEnter()
     {
+		playerFpc.GetComponent<FirstPersonController>().m_GravityMultiplier = 0.5f;
         player.GetComponent<Rigidbody>().mass = 5;
         player.GetComponent<Rigidbody>().drag = 5;
         water.enabled = true;
@@ -23,6 +26,9 @@ public class waterPhysics : MonoBehaviour {
     }
     void OnTriggerExit()
     {
+		playerFpc.GetComponent<FirstPersonController> ().m_GravityMultiplier = 1f;
+		player.GetComponent<Rigidbody>().mass = 1;
+		player.GetComponent<Rigidbody>().drag = 1;
         water.enabled = false;
     }
 }

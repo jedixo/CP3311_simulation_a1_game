@@ -49,6 +49,7 @@
      <Compile Include="Assets\Custom Assets\Scripts\LoadOnClick.cs" />
      <Compile Include="Assets\Custom Assets\Scripts\Pause.cs" />
      <Compile Include="Assets\Custom Assets\Scripts\dontDestroy.cs" />
+     <Compile Include="Assets\Custom Assets\Scripts\quitToMain.cs" />
      <Compile Include="Assets\Custom Assets\Scripts\test.cs" />
      <Compile Include="Assets\Custom Assets\Scripts\waterPhysics.cs" />
      <Compile Include="Assets\Custom Assets\desertAssets\scripts\SimpleAi.cs" />
