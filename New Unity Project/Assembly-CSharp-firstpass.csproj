@@ -118,12 +118,12 @@
      <None Include="Assets\Third Party Assets\Warrior 2 Swords\sources\Toon Shading\Toony-Basic.shader" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\Third Party Assets\ProjectSettings\ProjectVersion.txt" />
-     <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader" />
+     <None Include="Assets\Third Party Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Simple.shader" />
      <None Include="Assets\Third Party Assets\Sounds\Rocklynn Productions - Water Splash Pack\Read me.txt" />
      <None Include="Assets\Third Party Assets\Warrior 2 Swords\sources\Toon Shading\Toony Gooch RimOutline Hard.shader" />
      <None Include="Assets\Third Party Assets\SimpleSky\ReadMe.txt" />
      <None Include="Assets\Third Party Assets\Readme.txt" />
-     <None Include="Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader" />
+     <None Include="Assets\Third Party Assets\Lava_Flowing_Shader\Shaders\Unlit_Lava_Distort.shader" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Simple.shader" />
      <None Include="Assets\Third Party Assets\Cha_Data\Shader\WrapLambert.shader" />
      <None Include="Assets\Third Party Assets\Baker House\Readme.txt" />
@@ -131,7 +131,7 @@
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
-     <None Include="Assets\Lava_Flowing_Shader\ReadMe.txt" />
+     <None Include="Assets\Third Party Assets\Lava_Flowing_Shader\ReadMe.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
      <None Include="Assets\Third Party Assets\Warrior 2 Swords\sources\Toon Shading\Toony-LightedOutline.shader" />

@@ -19,8 +19,8 @@ public class waterPhysics : MonoBehaviour {
     void OnTriggerEnter()
     {
 		playerFpc.GetComponent<FirstPersonController>().m_GravityMultiplier = 0.5f;
-        player.GetComponent<Rigidbody>().mass = 5;
-        player.GetComponent<Rigidbody>().drag = 5;
+        player.GetComponent<Rigidbody>().mass = 50;
+        player.GetComponent<Rigidbody>().drag = 50;
         water.enabled = true;
         Debug.Log(water);
     }
